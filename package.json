@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.1",
+  "description": "ejercicio nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "norman claro",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
